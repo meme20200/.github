@@ -1,5 +1,6 @@
 <a href="https://discord.gg/c9xxRF7eFb"><img src="https://img.shields.io/discord/783309924171644938?color=5865F2&logo=discord&logoColor=white" alt="Discord" /></a>
 <br>
+<br>
 ![meme20200](https://git20200.gq/meme20200.webp)
 <br>
 # What is meme20200?
@@ -22,3 +23,5 @@ I hope this helped you with understanding what is meme20200
 [Branch Beta](https://app.branchbeta.com/branch/meme20200)
 <br>
 [Discord](https://discord.gg/c9xxRF7eFb)
+<br>
+[Twitter](https://twitter.com/minecraft_20200)

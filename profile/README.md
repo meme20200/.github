@@ -1,6 +1,7 @@
-<a href="//discord.gg/c9xxRF7eFb"><img src="https://img.shields.io/discord/783309924171644938?color=5865F2&logo=discord&logoColor=white" alt="Discord" /></a>
-<a href="//github.com/meme20200/suggestions"><img src="https://img.shields.io/github/issues/meme20200/suggestions" alt="Github Issues" /></a>
-<a href="//reddit.com/meme20200/"> <img src="https://img.shields.io/reddit/subreddit-subscribers/meme20200" alt="r/meme20200" /></a>
+<a href="//discord.gg/c9xxRF7eFb"><img src="https://img.shields.io/discord/783309924171644938?color=5865F2&logo=discord&logoColor=white" alt="Discord"></a>
+<a href="//github.com/meme20200/suggestions"><img src="https://img.shields.io/github/issues/meme20200/suggestions" alt="Github Issues"></a>
+<a href="//reddit.com/meme20200/"> <img src="https://img.shields.io/reddit/subreddit-subscribers/meme20200" alt="r/meme20200"></a>
+<a href="//github.com/meme20200"><img alt="GitHub followers" src="https://img.shields.io/github/followers/meme20200"></a>
 <br>
 ![meme20200](https://git20200.gq/meme20200.webp)
 <br>

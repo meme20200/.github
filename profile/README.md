@@ -1,28 +1,11 @@
-<a href="//discord.gg/c9xxRF7eFb"><img src="https://img.shields.io/discord/783309924171644938?color=5865F2&logo=discord&logoColor=white" alt="Discord"></a>
+<a href="//discord.gg/c9xxRF7eFb"><img src="https://img.shields.io/discord/664146322332581889?color=5865F2&logo=discord&logoColor=white" alt="Discord"></a>
 <a href="//github.com/meme20200/suggestions"><img src="https://img.shields.io/github/issues/meme20200/suggestions" alt="Github Issues"></a>
-<a href="//reddit.com/meme20200/"> <img src="https://img.shields.io/reddit/subreddit-subscribers/meme20200" alt="r/meme20200"></a>
 <a href="//github.com/meme20200"><img alt="GitHub followers" src="https://img.shields.io/github/followers/meme20200"></a>
 <br>
-![meme20200](https://git20200.gq/meme20200.webp)
+<img src="https://meme20200.tk/assets/pictures/meme20200%20Winter.png" alt="drawing" width="200"/>
 <br>
 # It's us meme20200!
-### What is meme20200?
-meme20200 a Dupe SMP Server which is on Minehut which has started meme20200, meme20200 is also a discord server which is connected to everything like The minehut server theres a channel for it which has the minecraft chat linked with the meme20200 discord server it is so enjoyable when people start to change their nick to prank people on the meme20200 minecraft server, oh right, meme20200 is also a community server on branch which is a branch? Yeah not that kind of branch the branchbeta becareful it is on beta + I didn't make the app so yeah, meme20200 branch has a room full of things maybe which will entertain you and maybe you can have fun trying those? Let's head back to the discord server, The discord server also has a leveling system which is made Arcance Acrcane no that isn't right Arcane? Ohhh it's Arcane sorry about that. But also this is the meme20200 minehut server IP 
+meme20200 an Advanced Dupe SMP which was founded by [GalaxyDevel0per](https://meme20200.fandom.com/wiki/GalaxyDevel0per) ![galaxydevel0per](https://crafatar.com/avatars/b10ceba3-0b0f-483a-ae02-b329641845c2?size=24&overlay) from 2020 until now! We at github share our projects like Minehut Tracker for server owners, Ranks for our meme20200 Wiki and much more!
 ```
 meme20200.minehut.gg
 ```
-I hope this helped you with understanding what is meme20200
-# Links
-[Home](https://git20200.gq)
-<br>
-[API](https://api.git20200.gq)
-<br>
-[Old Home](https://home.git20200.gq)
-<br>
-[Home(Github)](https://meme20200.github.io)
-<br>
-[Reddit](https://reddit.com/r/meme20200)
-<br>
-[Branch Beta](https://app.branchbeta.com/branch/meme20200)
-<br>
-[Discord](https://discord.gg/c9xxRF7eFb)

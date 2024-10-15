@@ -4,7 +4,6 @@
 <br>
 <img src="https://avatars.githubusercontent.com/u/91084188?s=200&v=4" alt="drawing" width="200"/>
 <br>
-# It's us meme20200!
 meme20200 an Advanced Dupe SMP which was founded by [GalaxyDevel0per](https://meme20200.wiki/GalaxyDevel0per) ![galaxydevel0per](https://crafatar.com/avatars/b10ceba3-0b0f-483a-ae02-b329641845c2?size=24&overlay) from 2020 until now! We at github share our projects like Minehut Tracker for server owners, Ranks for our meme20200 Wiki and much more!
 ```
 meme20200.minehut.gg
